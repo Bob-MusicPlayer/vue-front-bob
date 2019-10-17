@@ -1,0 +1,21 @@
+{
+  "name": "vue-front-bob",
+  "version": "1.0.0",
+  "description": "My neat Nuxt.js project",
+  "author": "Jonah Wichtrup",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.25",
+    "@fortawesome/free-solid-svg-icons": "^5.11.2",
+    "@fortawesome/vue-fontawesome": "^0.1.7",
+    "element-ui": "^2.4.11",
+    "nuxt": "^2.0.0"
+  },
+  "devDependencies": {}
+}
